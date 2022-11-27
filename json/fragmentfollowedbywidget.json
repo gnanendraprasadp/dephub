@@ -1,0 +1,392 @@
+[
+    {
+        "Id": "3001",
+        "Dependency Name": "Calendar View",
+        "Developer Name": "Kizito Nwose",
+        "Github Link": "https://github.com/kizitonwose/CalendarView",
+        "Full Name": "kizitonwose/CalendarView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3002",
+        "Dependency Name": "CircleView",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/CircleView",
+        "Full Name": "lopspower/CircleView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3003",
+        "Dependency Name": "Circular ImageView",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/CircularImageView",
+        "Full Name": "lopspower/CircularImageView",
+        "YouTube Link": "https://youtu.be/d13XebfE72o",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3004",
+        "Dependency Name": "Circular Progress Bar",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/CircularProgressBar",
+        "Full Name": "lopspower/CircularProgressBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3005",
+        "Dependency Name": "Crystal Range Seekbar",
+        "Developer Name": "Syed Owais Ali",
+        "Github Link": "https://github.com/syedowaisali/crystal-range-seekbar",
+        "Full Name": "syedowaisali/crystal-range-seekbar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3006",
+        "Dependency Name": "Glider Image",
+        "Developer Name": "Bump Technologies",
+        "Github Link": "https://github.com/bumptech/glide",
+        "Full Name": "bumptech/glide",
+        "YouTube Link": "https://youtu.be/wpJ84R8-0RY",
+        "License": "Other",
+        "License Link": "https://github.com/bumptech/glide/blob/master/LICENSE"
+    },
+    {
+        "Id": "3007",
+        "Dependency Name": "Material Calendar View",
+        "Developer Name": "Applandeo",
+        "Github Link": "https://github.com/Applandeo/Material-Calendar-View",
+        "Full Name": "Applandeo/Material-Calendar-View",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3008",
+        "Dependency Name": "Material Rating Bar",
+        "Developer Name": "Hai Zhang",
+        "Github Link": "https://github.com/zhanghai/MaterialRatingBar",
+        "Full Name": "zhanghai/MaterialRatingBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3009",
+        "Dependency Name": "Picasso",
+        "Developer Name": "Square",
+        "Github Link": "https://github.com/square/picasso",
+        "Full Name": "square/picasso",
+        "YouTube Link": "https://youtu.be/Tdb_WSEEZbQ",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3010",
+        "Dependency Name": "RateBottom Sheet",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/RateBottomSheet",
+        "Full Name": "lopspower/RateBottomSheet",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3011",
+        "Dependency Name": "SpinKit",
+        "Developer Name": "ybq",
+        "Github Link": "https://github.com/ybq/Android-SpinKit",
+        "Full Name": "ybq/Android-SpinKit",
+        "YouTube Link": "https://youtu.be/hYzmIj2djK0",
+        "License": "Other",
+        "License Link": "https://github.com/ybq/Android-SpinKit/blob/master/LICENSE"
+    },
+    {
+        "Id": "3012",
+        "Dependency Name": "Material SearchBar",
+        "Developer Name": "Mansour",
+        "Github Link": "https://github.com/mancj/MaterialSearchBar",
+        "Full Name": "mancj/MaterialSearchBar",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3013",
+        "Dependency Name": "Android Betterpickers",
+        "Developer Name": "Code-Troopers",
+        "Github Link": "https://github.com/code-troopers/android-betterpickers",
+        "Full Name": "code-troopers/android-betterpickers",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3014",
+        "Dependency Name": "Android Crop",
+        "Developer Name": "Jamie McDonald",
+        "Github Link": "https://github.com/jdamcd/android-crop",
+        "Full Name": "jdamcd/android-crop",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3015",
+        "Dependency Name": "Android Fillable Loaders",
+        "Developer Name": "Jorge Castillo",
+        "Github Link": "https://github.com/JorgeCastilloPrz/AndroidFillableLoaders",
+        "Full Name": "JorgeCastilloPrz/AndroidFillableLoaders",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3016",
+        "Dependency Name": "Android Slidr",
+        "Developer Name": "Florent CHAMPIGNY",
+        "Github Link": "https://github.com/florent37/android-slidr",
+        "Full Name": "florent37/android-slidr",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3017",
+        "Dependency Name": "Arc SeekBar",
+        "Developer Name": "Marcin MoskaÅ‚a",
+        "Github Link": "https://github.com/MarcinMoskala/ArcSeekBar",
+        "Full Name": "MarcinMoskala/ArcSeekBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3018",
+        "Dependency Name": "AV Loading Indicator",
+        "Developer Name": "Harlon Wang",
+        "Github Link": "https://github.com/HarlonWang/AVLoadingIndicatorView",
+        "Full Name": "HarlonWang/AVLoadingIndicatorView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3019",
+        "Dependency Name": "Cat Loading View",
+        "Developer Name": "Roger",
+        "Github Link": "https://github.com/Rogero0o/CatLoadingView",
+        "Full Name": "Rogero0o/CatLoadingView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3020",
+        "Dependency Name": "Circle LoadingView",
+        "Developer Name": "JosÃ© Luis MartÃ­n",
+        "Github Link": "https://github.com/jlmd/AnimatedCircleLoadingView",
+        "Full Name": "jlmd/AnimatedCircleLoadingView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3021",
+        "Dependency Name": "Croller",
+        "Developer Name": "Harjot Singh Oberai",
+        "Github Link": "https://github.com/harjot-oberai/Croller",
+        "Full Name": "harjot-oberai/Croller",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3022",
+        "Dependency Name": "Cropper",
+        "Developer Name": "Edmodo",
+        "Github Link": "https://github.com/edmodo/cropper",
+        "Full Name": "edmodo/cropper",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3023",
+        "Dependency Name": "Google Progress Bar",
+        "Developer Name": "JPARDOGO",
+        "Github Link": "https://github.com/jpardogo/GoogleProgressBar",
+        "Full Name": "jpardogo/GoogleProgressBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3024",
+        "Dependency Name": "Loading",
+        "Developer Name": "Yankai-victor",
+        "Github Link": "https://github.com/yankai-victor/Loading",
+        "Full Name": "yankai-victor/Loading",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3025",
+        "Dependency Name": "Month Calendar Widget",
+        "Developer Name": "Roman Nurik",
+        "Github Link": "https://github.com/romannurik/Android-MonthCalendarWidget",
+        "Full Name": "romannurik/Android-MonthCalendarWidget",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3026",
+        "Dependency Name": "Number Progress Bar",
+        "Developer Name": "Daimajia",
+        "Github Link": "https://github.com/daimajia/NumberProgressBar",
+        "Full Name": "daimajia/NumberProgressBar",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3027",
+        "Dependency Name": "Preview SeekBar",
+        "Developer Name": "RÃºben Sousa",
+        "Github Link": "https://github.com/rubensousa/PreviewSeekBar",
+        "Full Name": "rubensousa/PreviewSeekBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3028",
+        "Dependency Name": "Scrolling ImageView",
+        "Developer Name": "Q42",
+        "Github Link": "https://github.com/Q42/AndroidScrollingImageView",
+        "Full Name": "Q42/AndroidScrollingImageView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3029",
+        "Dependency Name": "Sublime Picker",
+        "Developer Name": "Vikram",
+        "Github Link": "https://github.com/vikramkakkar/SublimePicker",
+        "Full Name": "vikramkakkar/SublimePicker",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3030",
+        "Dependency Name": "Wave Loading View",
+        "Developer Name": "Tang",
+        "Github Link": "https://github.com/tangqi92/WaveLoadingView",
+        "Full Name": "tangqi92/WaveLoadingView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3031",
+        "Dependency Name": "Arrow Download Button",
+        "Developer Name": "Rongchan Liu",
+        "Github Link": "https://github.com/fenjuly/ArrowDownloadButton",
+        "Full Name": "fenjuly/ArrowDownloadButton",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3032",
+        "Dependency Name": "Circle ImageView",
+        "Developer Name": "Henning Dodenhof",
+        "Github Link": "https://github.com/hdodenhof/CircleImageView",
+        "Full Name": "hdodenhof/CircleImageView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3033",
+        "Dependency Name": "Flyco Round View",
+        "Developer Name": "Flyco",
+        "Github Link": "https://github.com/H07000223/FlycoRoundView",
+        "Full Name": "H07000223/FlycoRoundView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3034",
+        "Dependency Name": "Spinner Loading",
+        "Developer Name": "Zhanhui Bai",
+        "Github Link": "https://github.com/lusfold/SpinnerLoading",
+        "Full Name": "lusfold/SpinnerLoading",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3035",
+        "Dependency Name": "Status View",
+        "Developer Name": "Mert ÅžimÅŸek",
+        "Github Link": "https://github.com/iammert/StatusView",
+        "Full Name": "iammert/StatusView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3036",
+        "Dependency Name": "Compressor",
+        "Developer Name": "Zetra",
+        "Github Link": "https://github.com/zetbaitsu/Compressor",
+        "Full Name": "zetbaitsu/Compressor",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3037",
+        "Dependency Name": "Coil",
+        "Developer Name": "Coil",
+        "Github Link": "https://github.com/coil-kt/coil",
+        "Full Name": "coil-kt/coil",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "3038",
+        "Dependency Name": "Android GIF Drawable",
+        "Developer Name": "Karol Wrótniak",
+        "Github Link": "https://github.com/koral--/android-gif-drawable",
+        "Full Name": "koral--/android-gif-drawable",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "3039",
+        "Dependency Name": "Android SVG",
+        "Developer Name": "Paul LeBeau",
+        "Github Link": "https://github.com/BigBadaboom/androidsvg",
+        "Full Name": "BigBadaboom/androidsvg",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Id": "201",
+        "Dependency Name": "1. Dagger",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/dagger",
+        "Full Name": "google/dagger",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "202",
+        "Dependency Name": "2. OkHttp",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/okhttp",
+        "Full Name": "square/okhttp",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "203",
+        "Dependency Name": "3. Gson",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/gson",
+        "Full Name": "google/gson",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "204",
+        "Dependency Name": "4. Retrofit",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/retrofit",
+        "Full Name": "square/retrofit",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "205",
+        "Dependency Name": "5. Glide",
+        "Developer Name": "Bump Technologies",
+        "Github Link": "https://github.com/bumptech/glide",
+        "Full Name": "bumptech/glide",
+        "YouTube Link": "no",
+        "License": "Other",
+        "License Link": "https://github.com/bumptech/glide/blob/master/LICENSE"
+    },
+    {
+        "Id": "206",
+        "Dependency Name": "6. Butter Knife",
+        "Developer Name": "Jake Wharton",
+        "Github Link": "https://github.com/JakeWharton/butterknife",
+        "Full Name": "JakeWharton/butterknife",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "207",
+        "Dependency Name": "7. Guava",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/guava",
+        "Full Name": "google/guava",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "208",
+        "Dependency Name": "8. Picasso",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/picasso",
+        "Full Name": "square/picasso",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "209",
+        "Dependency Name": "9. RxAndroid",
+        "Developer Name": "ReactiveX",
+        "Github Link": "https://github.com/ReactiveX/RxAndroid",
+        "Full Name": "ReactiveX/RxAndroid",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "210",
+        "Dependency Name": "10. PDF Viewer",
+        "Developer Name": "Barteksc",
+        "Github Link": "https://github.com/barteksc/AndroidPdfViewer",
+        "Full Name": "barteksc/AndroidPdfViewer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

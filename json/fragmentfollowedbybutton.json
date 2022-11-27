@@ -1,0 +1,262 @@
+[
+    {
+        "Id": "2001",
+        "Dependency Name": "Animate CheckBox",
+        "Developer Name": "Hanks",
+        "Github Link": "https://github.com/hanks-zyh/AnimateCheckBox",
+        "Full Name": "hanks-zyh/AnimateCheckBox",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2002",
+        "Dependency Name": "AnimCheckBox",
+        "Developer Name": "Iguipeng",
+        "Github Link": "https://github.com/lguipeng/AnimCheckBox",
+        "Full Name": "lguipeng/AnimCheckBox",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2003",
+        "Dependency Name": "CheckBox",
+        "Developer Name": "JianxinLi",
+        "Github Link": "https://github.com/CoXier/CheckBox",
+        "Full Name": "CoXier/CheckBox",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2004",
+        "Dependency Name": "Chips Input Layout",
+        "Developer Name": "Tyler Suehr",
+        "Github Link": "https://github.com/tylersuehr7/chips-input-layout",
+        "Full Name": "tylersuehr7/chips-input-layout",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "2005",
+        "Dependency Name": "Circle CheckBox",
+        "Developer Name": "Arlind",
+        "Github Link": "https://github.com/arlindiDev/CircleCheckBox",
+        "Full Name": "arlindiDev/CircleCheckBox",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "2006",
+        "Dependency Name": "Compound Button Group",
+        "Developer Name": "Lorenzo Rigato",
+        "Github Link": "https://github.com/llollox/CompoundButtonGroup",
+        "Full Name": "llollox/CompoundButtonGroup",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "2007",
+        "Dependency Name": "Custom CheckBox",
+        "Developer Name": "iGenius",
+        "Github Link": "https://github.com/iGenius-Srl/android-custom-checkbox",
+        "Full Name": "iGenius-Srl/android-custom-checkbox",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2008",
+        "Dependency Name": "Day Night Switch",
+        "Developer Name": "Mahdi Fallahi",
+        "Github Link": "https://github.com/Mahfa/DayNightSwitch",
+        "Full Name": "Mahfa/DayNightSwitch",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "2009",
+        "Dependency Name": "Flat Button",
+        "Developer Name": "Le Van Hoang",
+        "Github Link": "https://github.com/hoang8f/android-flat-button",
+        "Full Name": "hoang8f/android-flat-button",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2010",
+        "Dependency Name": "Floating Action Button",
+        "Developer Name": "Zendesk",
+        "Github Link": "https://github.com/zendesk/android-floating-action-button",
+        "Full Name": "zendesk/android-floating-action-button",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2011",
+        "Dependency Name": "Intermediate CheckBox",
+        "Developer Name": "Svetlozar Kostaddinov",
+        "Github Link": "https://github.com/sevar83/indeterminate-checkbox",
+        "Full Name": "sevar83/indeterminate-checkbox",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2012",
+        "Dependency Name": "IOS Switch View",
+        "Developer Name": "Luong Vo",
+        "Github Link": "https://github.com/luongvo/iOS-SwitchView",
+        "Full Name": "luongvo/iOS-SwitchView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2013",
+        "Dependency Name": "Material Animated Switch",
+        "Developer Name": "AdriÃ¡n Lomas",
+        "Github Link": "https://github.com/glomadrian/material-animated-switch",
+        "Full Name": "glomadrian/material-animated-switch",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2014",
+        "Dependency Name": "Material CheckBox",
+        "Developer Name": "Robert Pengelly",
+        "Github Link": "https://github.com/robertapengelly92/android-material-checkbox",
+        "Full Name": "robertapengelly92/android-material-checkbox",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "2015",
+        "Dependency Name": "Material Chip View",
+        "Developer Name": "Robert",
+        "Github Link": "https://github.com/robertlevonyan/materialChipView",
+        "Full Name": "robertlevonyan/materialChipView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2016",
+        "Dependency Name": "PacButton",
+        "Developer Name": "Alexander",
+        "Github Link": "https://github.com/bitvale/PacButton",
+        "Full Name": "bitvale/PacButton",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2017",
+        "Dependency Name": "RMS Switch",
+        "Developer Name": "Riccardo Moro",
+        "Github Link": "https://github.com/RiccardoMoro/RMSwitch",
+        "Full Name": "RiccardoMoro/RMSwitch",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2018",
+        "Dependency Name": "Slide Switch",
+        "Developer Name": "Quinn",
+        "Github Link": "https://github.com/Leaking/SlideSwitch",
+        "Full Name": "Leaking/SlideSwitch",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2019",
+        "Dependency Name": "Smooth CheckBox",
+        "Developer Name": "Andyxialm",
+        "Github Link": "https://github.com/andyxialm/SmoothCheckBox",
+        "Full Name": "andyxialm/SmoothCheckBox",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2020",
+        "Dependency Name": "Swipe Button",
+        "Developer Name": "Ebanx",
+        "Github Link": "https://github.com/ebanx/swipe-button",
+        "Full Name": "ebanx/swipe-button",
+        "YouTube Link": "https://youtu.be/H-OluxrP8a0",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "2021",
+        "Dependency Name": "Switch Icon",
+        "Developer Name": "Zagumennyi Evgenii",
+        "Github Link": "https://github.com/zagum/Android-SwitchIcon",
+        "Full Name": "zagum/Android-SwitchIcon",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2022",
+        "Dependency Name": "Switcher",
+        "Developer Name": "Alexander",
+        "Github Link": "https://github.com/bitvale/Switcher",
+        "Full Name": "bitvale/Switcher",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "2023",
+        "Dependency Name": "ThumbUp",
+        "Developer Name": "Idoublem",
+        "Github Link": "https://github.com/ldoublem/ThumbUp",
+        "Full Name": "ldoublem/ThumbUp",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "2024",
+        "Dependency Name": "Toggle Button",
+        "Developer Name": "Suke",
+        "Github Link": "https://github.com/zcweng/ToggleButton",
+        "Full Name": "zcweng/ToggleButton",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "2025",
+        "Dependency Name": "Toggle Switch",
+        "Developer Name": "Belka",
+        "Github Link": "https://github.com/BelkaLab/Android-Toggle-Switch",
+        "Full Name": "BelkaLab/Android-Toggle-Switch",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "2026",
+        "Dependency Name": "TriState CheckBox",
+        "Developer Name": "Alessandro Crugnola",
+        "Github Link": "https://github.com/sephiroth74/Tri-State-Checkbox",
+        "Full Name": "sephiroth74/Tri-State-Checkbox",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    }
+]

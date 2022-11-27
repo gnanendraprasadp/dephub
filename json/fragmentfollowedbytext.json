@@ -1,0 +1,402 @@
+[
+    {
+        "Id": "1001",
+        "Dependency Name": "Android Float Label",
+        "Developer Name": "Ian G. Clifton",
+        "Github Link": "https://github.com/IanGClifton/AndroidFloatLabel",
+        "Full Name": "IanGClifton/AndroidFloatLabel",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1002",
+        "Dependency Name": "Animated EditText",
+        "Developer Name": "Ali Muzaffar",
+        "Github Link": "https://github.com/alphamu/AnimatedEditText",
+        "Full Name": "alphamu/AnimatedEditText",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1003",
+        "Dependency Name": "Auto Complete EditText",
+        "Developer Name": "Keishin Yokomaku",
+        "Github Link": "https://github.com/KeithYokoma/AccountAutoCompleteEditText",
+        "Full Name": "KeithYokoma/AccountAutoCompleteEditText",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1004",
+        "Dependency Name": "Auto Fit TextView",
+        "Developer Name": "Grantland Chew",
+        "Github Link": "https://github.com/grantland/android-autofittextview",
+        "Full Name": "grantland/android-autofittextview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1005",
+        "Dependency Name": "Autoscale EditText",
+        "Developer Name": "Txus Ballesteros",
+        "Github Link": "https://github.com/txusballesteros/AutosizeEditText",
+        "Full Name": "txusballesteros/AutosizeEditText",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1006",
+        "Dependency Name": "AwesomeText",
+        "Developer Name": "JMPergar",
+        "Github Link": "https://github.com/JMPergar/AwesomeText",
+        "Full Name": "JMPergar/AwesomeText",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1007",
+        "Dependency Name": "BabushkaText",
+        "Developer Name": "Henrique Boregio",
+        "Github Link": "https://github.com/hboregio/BabushkaText",
+        "Full Name": "hboregio/BabushkaText",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1008",
+        "Dependency Name": "Butter Knife",
+        "Developer Name": "Jake Wharton",
+        "Github Link": "https://github.com/JakeWharton/butterknife",
+        "Full Name": "JakeWharton/butterknife",
+        "YouTube Link": "https://youtu.be/C9023cw9slE",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1009",
+        "Dependency Name": "Circle TimerView",
+        "Developer Name": "Abbott",
+        "Github Link": "https://github.com/jiahuanyu/CircleTimerView",
+        "Full Name": "jiahuanyu/CircleTimerView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1010",
+        "Dependency Name": "Compound Icon",
+        "Developer Name": "Akira Aratani",
+        "Github Link": "https://github.com/AAkira/CompoundIconTextView",
+        "Full Name": "AAkira/CompoundIconTextView",
+        "YouTube Link": "https://youtu.be/dHwbjeOunjk",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1011",
+        "Dependency Name": "Currency EditText",
+        "Developer Name": "Josh Kitchens",
+        "Github Link": "https://github.com/BlacKCaT27/CurrencyEditText",
+        "Full Name": "BlacKCaT27/CurrencyEditText",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1012",
+        "Dependency Name": "Expandable TextView",
+        "Developer Name": "Manabu S.",
+        "Github Link": "https://github.com/Manabu-GT/ExpandableTextView",
+        "Full Name": "Manabu-GT/ExpandableTextView",
+        "YouTube Link": "https://youtu.be/c4XagtQlqS0",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1013",
+        "Dependency Name": "Extra Text",
+        "Developer Name": "Chuross",
+        "Github Link": "https://github.com/chuross/extra-textview",
+        "Full Name": "chuross/extra-textview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1014",
+        "Dependency Name": "Fading Text",
+        "Developer Name": "Tomer Rosenfeld",
+        "Github Link": "https://github.com/rosenpin/fading-text-view",
+        "Full Name": "rosenpin/fading-text-view",
+        "YouTube Link": "https://youtu.be/-3N2xeNiq98",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1015",
+        "Dependency Name": "Floating Label",
+        "Developer Name": "Hardik Trivedi",
+        "Github Link": "https://github.com/hardik-trivedi/FloatingLabel",
+        "Full Name": "hardik-trivedi/FloatingLabel",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "1016",
+        "Dependency Name": "FPS Animator",
+        "Developer Name": "Masayuki Suda",
+        "Github Link": "https://github.com/MasayukiSuda/FPSAnimator",
+        "Full Name": "MasayukiSuda/FPSAnimator",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1017",
+        "Dependency Name": "HTextView",
+        "Developer Name": "hanks",
+        "Github Link": "https://github.com/hanks-zyh/HTextView",
+        "Full Name": "hanks-zyh/HTextView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1018",
+        "Dependency Name": "Icarus Android",
+        "Developer Name": "Dyson Woo",
+        "Github Link": "https://github.com/mr5/icarus-android",
+        "Full Name": "mr5/icarus-android",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1019",
+        "Dependency Name": "Lazy Date Picker",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/LazyDatePicker",
+        "Full Name": "lopspower/LazyDatePicker",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1020",
+        "Dependency Name": "Mask EditText-1",
+        "Developer Name": "Evgeny Safronov",
+        "Github Link": "https://github.com/pinball83/Masked-Edittext",
+        "Full Name": "pinball83/Masked-Edittext",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1021",
+        "Dependency Name": "Mask EditText-2",
+        "Developer Name": "Fatih Santalu",
+        "Github Link": "https://github.com/santalu/maskara",
+        "Full Name": "santalu/maskara",
+        "YouTube Link": "https://youtu.be/4bbF4I_ZaG4",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1022",
+        "Dependency Name": "Masked Formatter",
+        "Developer Name": "AzimoLabs",
+        "Github Link": "https://github.com/AzimoLabs/MaskFormatter",
+        "Full Name": "AzimoLabs/MaskFormatter",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1023",
+        "Dependency Name": "Material Code Input",
+        "Developer Name": "Jan Heinrich Reimer",
+        "Github Link": "https://github.com/glomadrian/material-code-input",
+        "Full Name": "glomadrian/material-code-input",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1024",
+        "Dependency Name": "Material EditText",
+        "Developer Name": "Kai Zhu",
+        "Github Link": "https://github.com/rengwuxian/MaterialEditText",
+        "Full Name": "rengwuxian/MaterialEditText",
+        "YouTube Link": "https://youtu.be/OQNs7Edjgyw",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1025",
+        "Dependency Name": "Material Single Inputform",
+        "Developer Name": "Adrián Lomas",
+        "Github Link": "https://github.com/heinrichreimer/material-singleinputform",
+        "Full Name": "heinrichreimer/material-singleinputform",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1026",
+        "Dependency Name": "Material TextField",
+        "Developer Name": "Florent Champigny",
+        "Github Link": "https://github.com/florent37/MaterialTextField",
+        "Full Name": "florent37/MaterialTextField",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1027",
+        "Dependency Name": "Parked TextView",
+        "Developer Name": "Goka",
+        "Github Link": "https://github.com/gotokatsuya/ParkedTextView",
+        "Full Name": "gotokatsuya/ParkedTextView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1028",
+        "Dependency Name": "Password EditText",
+        "Developer Name": "Maksim",
+        "Github Link": "https://github.com/maksim88/PasswordEditText",
+        "Full Name": "maksim88/PasswordEditText",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1029",
+        "Dependency Name": "Password Show Toggle",
+        "Developer Name": "Scott Alexander",
+        "Github Link": "https://github.com/scottyab/showhidepasswordedittext",
+        "Full Name": "scottyab/showhidepasswordedittext",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1030",
+        "Dependency Name": "Password View",
+        "Developer Name": "Lisa Wray",
+        "Github Link": "https://github.com/lisawray/passwordview",
+        "Full Name": "lisawray/passwordview",
+        "YouTube Link": "no",
+        "License": "Unlicense",
+        "License Link": "https://github.com/lisawray/passwordview/blob/development/License.md"
+    },
+    {
+        "Id": "1031",
+        "Dependency Name": "Read More TextView",
+        "Developer Name": "Borja Bravo",
+        "Github Link": "https://github.com/bravoborja/ReadMoreTextView",
+        "Full Name": "bravoborja/ReadMoreTextView",
+        "YouTube Link": "https://youtu.be/h9L3wrYTV0M",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1032",
+        "Dependency Name": "Richeditor android",
+        "Developer Name": "Daichi Furiya",
+        "Github Link": "https://github.com/wasabeef/richeditor-android",
+        "Full Name": "wasabeef/richeditor-android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1033",
+        "Dependency Name": "Rotating Text",
+        "Developer Name": "MDG",
+        "Github Link": "https://github.com/mdg-iitr/RotatingText",
+        "Full Name": "mdg-iitr/RotatingText",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1034",
+        "Dependency Name": "Rounded Letter View",
+        "Developer Name": "Pavlos-Petros",
+        "Github Link": "https://github.com/pavlospt/RoundedLetterView",
+        "Full Name": "pavlospt/RoundedLetterView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1035",
+        "Dependency Name": "Secret TextView",
+        "Developer Name": "Matt Kula",
+        "Github Link": "https://github.com/matthewrkula/SecretTextView",
+        "Full Name": "matthewrkula/SecretTextView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1036",
+        "Dependency Name": "Simple Linkable Text",
+        "Developer Name": "Apradanas",
+        "Github Link": "https://github.com/apradanas/simple-linkable-text",
+        "Full Name": "apradanas/simple-linkable-text",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1037",
+        "Dependency Name": "Sweet Password",
+        "Developer Name": "Jesusmartinoza",
+        "Github Link": "https://github.com/jesusmartinoza/Sweet-Password",
+        "Full Name": "jesusmartinoza/Sweet-Password",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1038",
+        "Dependency Name": "Text Drawable",
+        "Developer Name": "Amulya Khare",
+        "Github Link": "https://github.com/amulyakhare/TextDrawable",
+        "Full Name": "amulyakhare/TextDrawable",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "1039",
+        "Dependency Name": "Text Surface",
+        "Developer Name": "Eugene Levenetc",
+        "Github Link": "https://github.com/elevenetc/TextSurface",
+        "Full Name": "elevenetc/TextSurface",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "1040",
+        "Dependency Name": "Waiting Dots",
+        "Developer Name": "Michal Tajchert",
+        "Github Link": "https://github.com/tajchert/WaitingDots",
+        "Full Name": "tajchert/WaitingDots",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    }
+]

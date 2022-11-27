@@ -1,0 +1,82 @@
+[
+    {
+        "Id": "101",
+        "Dependency Name": "Android Logger",
+        "Developer Name": "Noveo Group",
+        "Github Link": "https://github.com/noveogroup/android-logger",
+        "Full Name": "noveogroup/android-logger",
+        "YouTube Link": "no",
+        "License": "Other",
+        "License Link": "https://github.com/noveogroup/android-logger/blob/master/LICENSE.txt"
+    },
+    {
+        "Id": "102",
+        "Dependency Name": "Auto",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/auto",
+        "Full Name": "google/auto",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "103",
+        "Dependency Name": "Backboard",
+        "Developer Name": "Tumblr",
+        "Github Link": "https://github.com/tumblr/Backboard",
+        "Full Name": "tumblr/Backboard",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "104",
+        "Dependency Name": "Essentials",
+        "Developer Name": "Greenrobot",
+        "Github Link": "https://github.com/greenrobot/essentials",
+        "Full Name": "greenrobot/essentials",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "105",
+        "Dependency Name": "Flipcast",
+        "Developer Name": "Phaneesh",
+        "Github Link": "https://github.com/phaneesh/flipcast-android",
+        "Full Name": "phaneesh/flipcast-android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "106",
+        "Dependency Name": "Permission Dispatcher",
+        "Developer Name": "PermissionsDispatcher",
+        "Github Link": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+        "Full Name": "permissions-dispatcher/PermissionsDispatcher",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "107",
+        "Dependency Name": "Rebound",
+        "Developer Name": "Facebook Archive",
+        "Github Link": "https://github.com/facebookarchive/rebound",
+        "Full Name": "facebookarchive/rebound",
+        "YouTube Link": "no",
+        "License": "Other",
+        "License Link": "https://github.com/facebookarchive/rebound/blob/master/LICENSE"
+    },
+    {
+        "Id": "108",
+        "Dependency Name": "Rootbeer",
+        "Developer Name": "Scott Alexander-Bown",
+        "Github Link": "https://github.com/scottyab/rootbeer",
+        "Full Name": "scottyab/rootbeer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

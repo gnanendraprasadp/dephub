@@ -1,0 +1,182 @@
+[
+    {
+        "Id": "5001",
+        "Dependency Name": "Alphabet Recycler View",
+        "Developer Name": "Igor Gavryliuk",
+        "Github Link": "https://github.com/graviton57/AlphabetRecyclerView",
+        "Full Name": "graviton57/AlphabetRecyclerView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5002",
+        "Dependency Name": "Alphabetik",
+        "Developer Name": "Ricardo Montesinos",
+        "Github Link": "https://github.com/richimf/Alphabetik",
+        "Full Name": "richimf/Alphabetik",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "5003",
+        "Dependency Name": "Chip Navigation Bar",
+        "Developer Name": "Ismael Di Vita",
+        "Github Link": "https://github.com/ismaeldivita/chip-navigation-bar",
+        "Full Name": "ismaeldivita/chip-navigation-bar",
+        "YouTube Link": "https://youtu.be/BBWyZzemFAQ",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "5004",
+        "Dependency Name": "Fast Scroll-1",
+        "Developer Name": "Daniel Ciao",
+        "Github Link": "https://github.com/plusCubed/recycler-fast-scroll",
+        "Full Name": "plusCubed/recycler-fast-scroll",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5005",
+        "Dependency Name": "Fast Scroll-2",
+        "Developer Name": "Daniel Smith",
+        "Github Link": "https://github.com/danoz73/RecyclerViewFastScroller",
+        "Full Name": "danoz73/RecyclerViewFastScroller",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5006",
+        "Dependency Name": "Fast Scroll-3",
+        "Developer Name": "Tim Malseed",
+        "Github Link": "https://github.com/timusus/RecyclerView-FastScroll",
+        "Full Name": "timusus/RecyclerView-FastScroll",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5007",
+        "Dependency Name": "Fast Scroll-4",
+        "Developer Name": "L4 Digital",
+        "Github Link": "https://github.com/L4Digital/FastScroll",
+        "Full Name": "L4Digital/FastScroll",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5008",
+        "Dependency Name": "Fast Scroll-5",
+        "Developer Name": "Future Mind",
+        "Github Link": "https://github.com/FutureMind/recycler-fast-scroll",
+        "Full Name": "FutureMind/recycler-fast-scroll",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5009",
+        "Dependency Name": "HF Recycler View",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/HFRecyclerView",
+        "Full Name": "lopspower/HFRecyclerView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5010",
+        "Dependency Name": "Letter Side Bar",
+        "Developer Name": "Zhouzhuo",
+        "Github Link": "https://github.com/zhouzhuo810/ZzLettersSideBar",
+        "Full Name": "zhouzhuo810/ZzLettersSideBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5011",
+        "Dependency Name": "Material ScrollBar",
+        "Developer Name": "Wynne Plaga",
+        "Github Link": "https://github.com/turing-tech/MaterialScrollBar",
+        "Full Name": "turing-tech/MaterialScrollBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5012",
+        "Dependency Name": "Circle Indicator",
+        "Developer Name": "Relex",
+        "Github Link": "https://github.com/ongakuer/CircleIndicator",
+        "Full Name": "ongakuer/CircleIndicator",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5013",
+        "Dependency Name": "Flip View Pager",
+        "Developer Name": "Yalantis",
+        "Github Link": "https://github.com/Yalantis/FlipViewPager.Draco",
+        "Full Name": "Yalantis/FlipViewPager.Draco",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5014",
+        "Dependency Name": "Free Pager",
+        "Developer Name": "Alex Zaitsev",
+        "Github Link": "https://github.com/alexzaitsev/freepager",
+        "Full Name": "alexzaitsev/freepager",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5015",
+        "Dependency Name": "Navigation Tab Bar",
+        "Developer Name": "Devlight",
+        "Github Link": "https://github.com/Devlight/NavigationTabBar",
+        "Full Name": "Devlight/NavigationTabBar",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5016",
+        "Dependency Name": "Custom Navigation Drawer",
+        "Developer Name": "Shrikanth Ravi",
+        "Github Link": "https://github.com/shrikanth7698/Custom-Navigation-Drawer",
+        "Full Name": "shrikanth7698/Custom-Navigation-Drawer",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "5017",
+        "Dependency Name": "Drag Drop Recyclerview",
+        "Developer Name": "Ernesto Yaquello",
+        "Github Link": "https://github.com/ernestoyaquello/DragDropSwipeRecyclerview",
+        "Full Name": "ernestoyaquello/DragDropSwipeRecyclerview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "5018",
+        "Dependency Name": "Drag ListView",
+        "Developer Name": "Magnus Woxblom",
+        "Github Link": "https://github.com/woxblom/DragListView",
+        "Full Name": "woxblom/DragListView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Id": "6001",
+        "Dependency Name": "Flow Layout",
+        "Developer Name": "Alexander Dadukin",
+        "Github Link": "https://github.com/st235/FlowLayout",
+        "Full Name": "st235/FlowLayout",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "6002",
+        "Dependency Name": "GPU Image",
+        "Developer Name": "CATS OSS",
+        "Github Link": "https://github.com/cats-oss/android-gpuimage",
+        "Full Name": "cats-oss/android-gpuimage",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "6003",
+        "Dependency Name": "Image Filters",
+        "Developer Name": "Abdullah Alhazmy",
+        "Github Link": "https://github.com/alhazmy13/ImageFilters",
+        "Full Name": "alhazmy13/ImageFilters",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "6004",
+        "Dependency Name": "Photo Filters SDK",
+        "Developer Name": "Zomato",
+        "Github Link": "https://github.com/Zomato/AndroidPhotoFilters",
+        "Full Name": "Zomato/AndroidPhotoFilters",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "6005",
+        "Dependency Name": "Android Helpers",
+        "Developer Name": "Dani Mahardhika",
+        "Github Link": "https://github.com/danimahardhika/android-helpers",
+        "Full Name": "danimahardhika/android-helpers",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

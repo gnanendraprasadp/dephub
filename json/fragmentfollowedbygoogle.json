@@ -1,0 +1,92 @@
+[
+    {
+        "Id": "7001",
+        "Dependency Name": "GSON",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/gson",
+        "Full Name": "google/gson",
+        "YouTube Link": "https://youtu.be/f-kcvxYZrB4",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7002",
+        "Dependency Name": "Guava",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/guava",
+        "Full Name": "google/guava",
+        "YouTube Link": "https://youtu.be/velk2YgGfAA",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7003",
+        "Dependency Name": "Material Components",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/material-components/material-components-android",
+        "Full Name": "material-components/material-components-android",
+        "YouTube Link": "https://www.youtube.com/playlist?list=PLGCjwl1RrtcSxDB7LTgNf5k_PD3gIs5hD",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7004",
+        "Dependency Name": "Play Services Plugin",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/play-services-plugins",
+        "Full Name": "google/play-services-plugins",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7005",
+        "Dependency Name": "Volley",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/volley",
+        "Full Name": "google/volley",
+        "YouTube Link": "https://youtu.be/y2xtLqP8dSQ",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7006",
+        "Dependency Name": "ExoPlayer",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/ExoPlayer",
+        "Full Name": "google/ExoPlayer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7007",
+        "Dependency Name": "Dagger",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/dagger",
+        "Full Name": "google/dagger",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7008",
+        "Dependency Name": "Hover",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/hover",
+        "Full Name": "google/hover",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "7009",
+        "Dependency Name": "Auto",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/auto",
+        "Full Name": "google/auto",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

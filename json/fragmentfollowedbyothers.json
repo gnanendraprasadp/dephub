@@ -1,0 +1,932 @@
+[
+    {
+        "Id": "9001",
+        "Dependency Name": "App Intro",
+        "Developer Name": "AppIntro Team",
+        "Github Link": "https://github.com/AppIntro/AppIntro",
+        "Full Name": "AppIntro/AppIntro",
+        "YouTube Link": "https://youtu.be/6ZXZwiOTclg",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9002",
+        "Dependency Name": "Camera Kit",
+        "Developer Name": "CameraKit",
+        "Github Link": "https://github.com/CameraKit/camerakit-android",
+        "Full Name": "CameraKit/camerakit-android",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9003",
+        "Dependency Name": "Circle Menu",
+        "Developer Name": "Vans Z",
+        "Github Link": "https://github.com/Hitomis/CircleMenu",
+        "Full Name": "Hitomis/CircleMenu",
+        "YouTube Link": "https://youtu.be/baKdWSn-z2I",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9004",
+        "Dependency Name": "Circular Fillable Loader",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/CircularFillableLoaders",
+        "Full Name": "lopspower/CircularFillableLoaders",
+        "YouTube Link": "https://youtu.be/uJRWOnspLX8",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9005",
+        "Dependency Name": "Face Recognition",
+        "Developer Name": "Qualeams",
+        "Github Link": "https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library",
+        "Full Name": "Qualeams/Android-Face-Recognition-with-Deep-Learning-Library",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9006",
+        "Dependency Name": "Flip View",
+        "Developer Name": "Polok",
+        "Github Link": "https://github.com/polok/FlipView",
+        "Full Name": "polok/FlipView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9007",
+        "Dependency Name": "Gradient View",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/GradientView",
+        "Full Name": "lopspower/GradientView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9008",
+        "Dependency Name": "Highlighting View",
+        "Developer Name": "Nicola Gallazzi",
+        "Github Link": "https://github.com/ngallazzi/HighlightingView",
+        "Full Name": "ngallazzi/HighlightingView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9009",
+        "Dependency Name": "Media Recorder Dialog",
+        "Developer Name": "Abdullah Alhazmy",
+        "Github Link": "https://github.com/alhazmy13/MediaRecorderDialog",
+        "Full Name": "alhazmy13/MediaRecorderDialog",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9010",
+        "Dependency Name": "Rx Android Studio",
+        "Developer Name": "Piasy",
+        "Github Link": "https://github.com/Piasy/RxAndroidAudio",
+        "Full Name": "Piasy/RxAndroidAudio",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9011",
+        "Dependency Name": "Rx Animation",
+        "Developer Name": "Lopez Mikhael",
+        "Github Link": "https://github.com/lopspower/RxAnimation",
+        "Full Name": "lopspower/RxAnimation",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9012",
+        "Dependency Name": "Styleable Toast",
+        "Developer Name": "Muddi Walid",
+        "Github Link": "https://github.com/Muddz/StyleableToast",
+        "Full Name": "Muddz/StyleableToast",
+        "YouTube Link": "https://youtu.be/fq8TDVqpmZ0",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9013",
+        "Dependency Name": "Text Recognition",
+        "Developer Name": "Sainath Hiwale",
+        "Github Link": "https://github.com/Sainathhiwale/TextRecognitionAndroid",
+        "Full Name": "Sainathhiwale/TextRecognitionAndroid",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "9014",
+        "Dependency Name": "Dagger",
+        "Developer Name": "Square",
+        "Github Link": "https://github.com/square/dagger",
+        "Full Name": "square/dagger",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9015",
+        "Dependency Name": "Fresco",
+        "Developer Name": "Facebook",
+        "Github Link": "https://github.com/facebook/fresco",
+        "Full Name": "facebook/fresco",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9016",
+        "Dependency Name": "Moshi",
+        "Developer Name": "Square",
+        "Github Link": "https://github.com/square/moshi",
+        "Full Name": "square/moshi",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9017",
+        "Dependency Name": "Otto",
+        "Developer Name": "Square",
+        "Github Link": "https://github.com/square/otto",
+        "Full Name": "square/otto",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9018",
+        "Dependency Name": "Noty",
+        "Developer Name": "Emre",
+        "Github Link": "https://github.com/emre1512/Noty",
+        "Full Name": "emre1512/Noty",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9019",
+        "Dependency Name": "Voice Overlay",
+        "Developer Name": "Algolia",
+        "Github Link": "https://github.com/algolia/voice-overlay-android",
+        "Full Name": "algolia/voice-overlay-android",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9020",
+        "Dependency Name": "Elastic Views",
+        "Developer Name": "Jaewoong Eum",
+        "Github Link": "https://github.com/skydoves/ElasticViews",
+        "Full Name": "skydoves/ElasticViews",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9021",
+        "Dependency Name": "Animation Easing Functions",
+        "Developer Name": "Daimajia",
+        "Github Link": "https://github.com/daimajia/AnimationEasingFunctions",
+        "Full Name": "daimajia/AnimationEasingFunctions",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9022",
+        "Dependency Name": "Blur Behind",
+        "Developer Name": "Gokberk Ergun",
+        "Github Link": "https://github.com/faradaj/BlurBehind",
+        "Full Name": "faradaj/BlurBehind",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9023",
+        "Dependency Name": "Boom Menu",
+        "Developer Name": "Nightonke",
+        "Github Link": "https://github.com/Nightonke/BoomMenu",
+        "Full Name": "Nightonke/BoomMenu",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "9024",
+        "Dependency Name": "Broken View",
+        "Developer Name": "Zhanyongsheng",
+        "Github Link": "https://github.com/zhanyongsheng/BrokenView",
+        "Full Name": "zhanyongsheng/BrokenView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9025",
+        "Dependency Name": "Crossview",
+        "Developer Name": "Collin Flynn",
+        "Github Link": "https://github.com/cdflynn/crossview",
+        "Full Name": "cdflynn/crossview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9026",
+        "Dependency Name": "Dialog Plus",
+        "Developer Name": "Orhan Obut",
+        "Github Link": "https://github.com/orhanobut/dialogplus",
+        "Full Name": "orhanobut/dialogplus",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9027",
+        "Dependency Name": "Eaze Graph",
+        "Developer Name": "Paul Cech",
+        "Github Link": "https://github.com/blackfizz/EazeGraph",
+        "Full Name": "blackfizz/EazeGraph",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9028",
+        "Dependency Name": "Explosion Field",
+        "Developer Name": "Tyrantgit",
+        "Github Link": "https://github.com/tyrantgit/ExplosionField",
+        "Full Name": "tyrantgit/ExplosionField",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9029",
+        "Dependency Name": "Flyco Dialog",
+        "Developer Name": "Flyco",
+        "Github Link": "https://github.com/H07000223/FlycoDialog_Master",
+        "Full Name": "H07000223/FlycoDialog_Master",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9030",
+        "Dependency Name": "Graph View",
+        "Developer Name": "Jonas Gehring",
+        "Github Link": "https://github.com/jjoe64/GraphView",
+        "Full Name": "jjoe64/GraphView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9031",
+        "Dependency Name": "Guillotine Menu",
+        "Developer Name": "Yalantis",
+        "Github Link": "https://github.com/Yalantis/GuillotineMenu-Android",
+        "Full Name": "Yalantis/GuillotineMenu-Android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9032",
+        "Dependency Name": "Hello Charts",
+        "Developer Name": "Leszek Wach",
+        "Github Link": "https://github.com/lecho/hellocharts-android",
+        "Full Name": "lecho/hellocharts-android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9033",
+        "Dependency Name": "Horizon",
+        "Developer Name": "Yalantis",
+        "Github Link": "https://github.com/Yalantis/Horizon",
+        "Full Name": "Yalantis/Horizon",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9034",
+        "Dependency Name": "Image Slider",
+        "Developer Name": "Daimajia",
+        "Github Link": "https://github.com/daimajia/AndroidImageSlider",
+        "Full Name": "daimajia/AndroidImageSlider",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9035",
+        "Dependency Name": "Konfetti",
+        "Developer Name": "Dion Segijn",
+        "Github Link": "https://github.com/DanielMartinus/Konfetti",
+        "Full Name": "DanielMartinus/Konfetti",
+        "YouTube Link": "no",
+        "License": "ISC License",
+        "License Link": "https://github.com/DanielMartinus/Konfetti/blob/main/LICENSE"
+    },
+    {
+        "Id": "9036",
+        "Dependency Name": "List View Animations",
+        "Developer Name": "Niek Haarman",
+        "Github Link": "https://github.com/nhaarman/ListViewAnimations",
+        "Full Name": "nhaarman/ListViewAnimations",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9037",
+        "Dependency Name": "MP Android Chart",
+        "Developer Name": "Philipp Jahoda",
+        "Github Link": "https://github.com/PhilJay/MPAndroidChart",
+        "Full Name": "PhilJay/MPAndroidChart",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9038",
+        "Dependency Name": "Parallax Everywhere",
+        "Developer Name": "fmSirvent",
+        "Github Link": "https://github.com/Narfss/ParallaxEverywhere",
+        "Full Name": "Narfss/ParallaxEverywhere",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9039",
+        "Dependency Name": "PdfView",
+        "Developer Name": "Joan Zapata",
+        "Github Link": "https://github.com/JoanZapata/android-pdfview",
+        "Full Name": "JoanZapata/android-pdfview",
+        "YouTube Link": "no",
+        "License": "GPL-3.0 License",
+        "License Link": "https://github.com/JoanZapata/android-pdfview/blob/master/LICENSE.txt"
+    },
+    {
+        "Id": "9040",
+        "Dependency Name": "Reachability",
+        "Developer Name": "Sakebook",
+        "Github Link": "https://github.com/sakebook/Reachability",
+        "Full Name": "sakebook/Reachability",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9041",
+        "Dependency Name": "Rebound",
+        "Developer Name": "Facebook Archive",
+        "Github Link": "https://github.com/facebookarchive/rebound",
+        "Full Name": "facebookarchive/rebound",
+        "YouTube Link": "no",
+        "License": "Other",
+        "License Link": "https://github.com/facebookarchive/rebound/blob/master/LICENSE"
+    },
+    {
+        "Id": "9042",
+        "Dependency Name": "Rich Path",
+        "Developer Name": "Ahmed Tarek",
+        "Github Link": "https://github.com/tarek360/RichPath",
+        "Full Name": "tarek360/RichPath",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9043",
+        "Dependency Name": "Ripple Background",
+        "Developer Name": "Yao Yu",
+        "Github Link": "https://github.com/skyfishjy/android-ripple-background",
+        "Full Name": "skyfishjy/android-ripple-background",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9044",
+        "Dependency Name": "Shimmer Android",
+        "Developer Name": "Romain Piel",
+        "Github Link": "https://github.com/romainpiel/Shimmer-android",
+        "Full Name": "romainpiel/Shimmer-android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9045",
+        "Dependency Name": "Simple Finger Gestures",
+        "Developer Name": "Arnav Gupta",
+        "Github Link": "https://github.com/championswimmer/SimpleFingerGestures_Android_Library",
+        "Full Name": "championswimmer/SimpleFingerGestures_Android_Library",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9046",
+        "Dependency Name": "Spotlight",
+        "Developer Name": "TakuSemba",
+        "Github Link": "https://github.com/TakuSemba/Spotlight",
+        "Full Name": "TakuSemba/Spotlight",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9047",
+        "Dependency Name": "Stepper Touch",
+        "Developer Name": "Dion Segijn",
+        "Github Link": "https://github.com/DanielMartinus/Stepper-Touch",
+        "Full Name": "DanielMartinus/Stepper-Touch",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9048",
+        "Dependency Name": "Swipe Cards",
+        "Developer Name": "Dionysis Lorentzos",
+        "Github Link": "https://github.com/Diolor/Swipecards",
+        "Full Name": "Diolor/Swipecards",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9049",
+        "Dependency Name": "Tap TargetView",
+        "Developer Name": "Keepsafe",
+        "Github Link": "https://github.com/KeepSafe/TapTargetView",
+        "Full Name": "KeepSafe/TapTargetView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9050",
+        "Dependency Name": "Titanic",
+        "Developer Name": "Romain Piel",
+        "Github Link": "https://github.com/romainpiel/Titanic",
+        "Full Name": "romainpiel/Titanic",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9051",
+        "Dependency Name": "Trianglify",
+        "Developer Name": "Manuel Vera",
+        "Github Link": "https://github.com/manolovn/trianglify",
+        "Full Name": "manolovn/trianglify",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9052",
+        "Dependency Name": "View Animations",
+        "Developer Name": "Daimajia",
+        "Github Link": "https://github.com/daimajia/AndroidViewAnimations",
+        "Full Name": "daimajia/AndroidViewAnimations",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9053",
+        "Dependency Name": "William Chart",
+        "Developer Name": "Diogo Bernardino",
+        "Github Link": "https://github.com/diogobernardino/williamchart",
+        "Full Name": "diogobernardino/williamchart",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9054",
+        "Dependency Name": "About Page",
+        "Developer Name": "Mehdi Sakout",
+        "Github Link": "https://github.com/medyo/android-about-page",
+        "Full Name": "medyo/android-about-page",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9055",
+        "Dependency Name": "AG Skeleton Loading",
+        "Developer Name": "Agnaldo Pereira",
+        "Github Link": "https://github.com/AgnaldoNP/AGSkeletonLoading",
+        "Full Name": "AgnaldoNP/AGSkeletonLoading",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "9056",
+        "Dependency Name": "Alerter",
+        "Developer Name": "Tapadoo",
+        "Github Link": "https://github.com/Tapadoo/Alerter",
+        "Full Name": "Tapadoo/Alerter",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9057",
+        "Dependency Name": "CF AlertDialog",
+        "Developer Name": "Crowdfire Inc.",
+        "Github Link": "https://github.com/Codigami/CFAlertDialog",
+        "Full Name": "Codigami/CFAlertDialog",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9058",
+        "Dependency Name": "Circular Progress Drawable",
+        "Developer Name": "SaÃºl DÃ­az",
+        "Github Link": "https://github.com/Sefford/CircularProgressDrawable",
+        "Full Name": "Sefford/CircularProgressDrawable",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9059",
+        "Dependency Name": "Cool Menu",
+        "Developer Name": "Foocoder",
+        "Github Link": "https://github.com/notice501/coolMenu",
+        "Full Name": "notice501/coolMenu",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "9060",
+        "Dependency Name": "Creative Viewpager",
+        "Developer Name": "Tommy Buonomo",
+        "Github Link": "https://github.com/tommybuonomo/creative-viewpager",
+        "Full Name": "tommybuonomo/creative-viewpager",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9061",
+        "Dependency Name": "Easy Android Animations",
+        "Developer Name": "2359 Media",
+        "Github Link": "https://github.com/2359media/EasyAndroidAnimations",
+        "Full Name": "2359media/EasyAndroidAnimations",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9062",
+        "Dependency Name": "EN Views",
+        "Developer Name": "Est",
+        "Github Link": "https://github.com/codeestX/ENViews",
+        "Full Name": "codeestX/ENViews",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9063",
+        "Dependency Name": "FAB Progress Circle",
+        "Developer Name": "Jorge Castillo",
+        "Github Link": "https://github.com/JorgeCastilloPrz/FABProgressCircle",
+        "Full Name": "JorgeCastilloPrz/FABProgressCircle",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9064",
+        "Dependency Name": "Fancy AlertDialog",
+        "Developer Name": "Shashank Singhal",
+        "Github Link": "https://github.com/Shashank02051997/FancyAlertDialog-Android",
+        "Full Name": "Shashank02051997/FancyAlertDialog-Android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9065",
+        "Dependency Name": "JJ SearchView Anim",
+        "Developer Name": "CJJ",
+        "Github Link": "https://github.com/android-cjj/JJSearchViewAnim",
+        "Full Name": "android-cjj/JJSearchViewAnim",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9066",
+        "Dependency Name": "Licenses Dialog",
+        "Developer Name": "PSDev",
+        "Github Link": "https://github.com/PSDev/LicensesDialog",
+        "Full Name": "PSDev/LicensesDialog",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9067",
+        "Dependency Name": "Nifty Dialog Effects",
+        "Developer Name": "Sd6352051",
+        "Github Link": "https://github.com/sd6352051/NiftyDialogEffects",
+        "Full Name": "sd6352051/NiftyDialogEffects",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9068",
+        "Dependency Name": "Reside Menu",
+        "Developer Name": "Special",
+        "Github Link": "https://github.com/SpecialCyCi/AndroidResideMenu",
+        "Full Name": "SpecialCyCi/AndroidResideMenu",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9069",
+        "Dependency Name": "Spruce Android",
+        "Developer Name": "WillowTree, LLC",
+        "Github Link": "https://github.com/willowtreeapps/spruce-android",
+        "Full Name": "willowtreeapps/spruce-android",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9070",
+        "Dependency Name": "Toasty",
+        "Developer Name": "GrenderG",
+        "Github Link": "https://github.com/GrenderG/Toasty",
+        "Full Name": "GrenderG/Toasty",
+        "YouTube Link": "no",
+        "License": "LGPL-3.0 License",
+        "License Link": "https://github.com/GrenderG/Toasty/blob/master/LICENSE"
+    },
+    {
+        "Id": "9071",
+        "Dependency Name": "Viewpager Transition",
+        "Developer Name": "Stone",
+        "Github Link": "https://github.com/xmuSistone/ViewpagerTransition",
+        "Full Name": "xmuSistone/ViewpagerTransition",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9072",
+        "Dependency Name": "Logger",
+        "Developer Name": "Orhan Obut",
+        "Github Link": "https://github.com/orhanobut/logger",
+        "Full Name": "orhanobut/logger",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9073",
+        "Dependency Name": "Zxing",
+        "Developer Name": "ZXing Project",
+        "Github Link": "https://github.com/zxing/zxing",
+        "Full Name": "zxing/zxing",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9074",
+        "Dependency Name": "Quickie",
+        "Developer Name": "Thomas Wirth",
+        "Github Link": "https://github.com/G00fY2/quickie",
+        "Full Name": "G00fY2/quickie",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9075",
+        "Dependency Name": "Awesome CodeScanner",
+        "Developer Name": "Govinda Paliwal",
+        "Github Link": "https://github.com/GovindaPaliwal/AwesomeCodeScanner",
+        "Full Name": "GovindaPaliwal/AwesomeCodeScanner",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9076",
+        "Dependency Name": "FilePicker",
+        "Developer Name": "Ajay Asija",
+        "Github Link": "https://github.com/ajayasija23/FilePicker",
+        "Full Name": "ajayasija23/FilePicker",
+        "YouTube Link": "no",
+        "License": "GPL-3.0 License",
+        "License Link": "https://github.com/ajayasija23/FilePicker/blob/master/LICENSE"
+    },
+    {
+        "Id": "9077",
+        "Dependency Name": "Android Youtube Player",
+        "Developer Name": "Pierfrancesco Soffritti",
+        "Github Link": "https://github.com/PierfrancescoSoffritti/android-youtube-player",
+        "Full Name": "PierfrancescoSoffritti/android-youtube-player",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9078",
+        "Dependency Name": "Android SQLite Asset Helper",
+        "Developer Name": "Jeff Gilfelt",
+        "Github Link": "https://github.com/jgilfelt/android-sqlite-asset-helper",
+        "Full Name": "jgilfelt/android-sqlite-asset-helper",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9079",
+        "Dependency Name": "PeekAndPop",
+        "Developer Name": "Vincent Te Tau",
+        "Github Link": "https://github.com/shalskar/PeekAndPop",
+        "Full Name": "shalskar/PeekAndPop",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9080",
+        "Dependency Name": "App Auth Android",
+        "Developer Name": "OpenID",
+        "Github Link": "https://github.com/openid/AppAuth-Android",
+        "Full Name": "openid/AppAuth-Android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9081",
+        "Dependency Name": "Apollo Kotlin",
+        "Developer Name": "Apollo GraphQL",
+        "Github Link": "https://github.com/apollographql/apollo-kotlin",
+        "Full Name": "apollographql/apollo-kotlin",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9082",
+        "Dependency Name": "Jsoup",
+        "Developer Name": "Jonathan Hedley",
+        "Github Link": "https://github.com/jhy/jsoup",
+        "Full Name": "jhy/jsoup",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9083",
+        "Dependency Name": "Pdf ViewPager",
+        "Developer Name": "Olmo Gallegos",
+        "Github Link": "https://github.com/voghDev/PdfViewPager",
+        "Full Name": "voghDev/PdfViewPager",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9084",
+        "Dependency Name": "Lingver",
+        "Developer Name": "Yaroslav Berezanskyi",
+        "Github Link": "https://github.com/YarikSOffice/lingver",
+        "Full Name": "YarikSOffice/lingver",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "9085",
+        "Dependency Name": "OkHttp",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/okhttp",
+        "Full Name": "square/okhttp",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9086",
+        "Dependency Name": "Retrofit",
+        "Developer Name": "Square ",
+        "Github Link": "https://github.com/square/retrofit",
+        "Full Name": "square/retrofit",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9087",
+        "Dependency Name": "RxAndroid",
+        "Developer Name": "ReactiveX",
+        "Github Link": "https://github.com/ReactiveX/RxAndroid",
+        "Full Name": "ReactiveX/RxAndroid",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9088",
+        "Dependency Name": "PDF Viewer",
+        "Developer Name": "Barteksc",
+        "Github Link": "https://github.com/barteksc/AndroidPdfViewer",
+        "Full Name": "barteksc/AndroidPdfViewer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9089",
+        "Dependency Name": "Backboard",
+        "Developer Name": "Tumblr",
+        "Github Link": "https://github.com/tumblr/Backboard",
+        "Full Name": "tumblr/Backboard",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9090",
+        "Dependency Name": "Essentials",
+        "Developer Name": "Greenrobot",
+        "Github Link": "https://github.com/greenrobot/essentials",
+        "Full Name": "greenrobot/essentials",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9091",
+        "Dependency Name": "Flipcast",
+        "Developer Name": "Phaneesh",
+        "Github Link": "https://github.com/phaneesh/flipcast-android",
+        "Full Name": "phaneesh/flipcast-android",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9092",
+        "Dependency Name": "Permission Dispatcher",
+        "Developer Name": "PermissionsDispatcher",
+        "Github Link": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+        "Full Name": "permissions-dispatcher/PermissionsDispatcher",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "9093",
+        "Dependency Name": "Rootbeer",
+        "Developer Name": "Scott Alexander-Bown",
+        "Github Link": "https://github.com/scottyab/rootbeer",
+        "Full Name": "scottyab/rootbeer",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

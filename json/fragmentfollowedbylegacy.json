@@ -1,0 +1,142 @@
+[
+    {
+        "Id": "8001",
+        "Dependency Name": "Asymmetric GridView",
+        "Developer Name": "Felipe Lima",
+        "Github Link": "https://github.com/felipecsl/AsymmetricGridView",
+        "Full Name": "felipecsl/AsymmetricGridView",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "8002",
+        "Dependency Name": "Fit GridView",
+        "Developer Name": "Ceryle L2",
+        "Github Link": "https://github.com/ceryle/FitGridView",
+        "Full Name": "ceryle/FitGridView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8003",
+        "Dependency Name": "Flexbox Layout",
+        "Developer Name": "Google",
+        "Github Link": "https://github.com/google/flexbox-layout",
+        "Full Name": "google/flexbox-layout",
+        "YouTube Link": "https://youtu.be/M-gyF2hcVig",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8004",
+        "Dependency Name": "ListView Variants",
+        "Developer Name": "AndroidDeveloperLB",
+        "Github Link": "https://github.com/AndroidDeveloperLB/ListViewVariants",
+        "Full Name": "AndroidDeveloperLB/ListViewVariants",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8005",
+        "Dependency Name": "Material TabHost",
+        "Developer Name": "Yuki Anzai",
+        "Github Link": "https://github.com/yanzm/MaterialTabHost",
+        "Full Name": "yanzm/MaterialTabHost",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8006",
+        "Dependency Name": "Pinned Section ListView",
+        "Developer Name": "Sergej Shafarenk",
+        "Github Link": "https://github.com/beworker/pinned-section-listview",
+        "Full Name": "beworker/pinned-section-listview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8007",
+        "Dependency Name": "Divided Draggable View",
+        "Developer Name": "Yuexin Feng",
+        "Github Link": "https://github.com/andyken/DividedDraggableView",
+        "Full Name": "andyken/DividedDraggableView",
+        "YouTube Link": "no",
+        "License": "No License",
+        "License Link": "NO"
+    },
+    {
+        "Id": "8008",
+        "Dependency Name": "Advanced Recycler View",
+        "Developer Name": "Haruki Hasegawa",
+        "Github Link": "https://github.com/h6ah4i/android-advancedrecyclerview",
+        "Full Name": "h6ah4i/android-advancedrecyclerview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8009",
+        "Dependency Name": "Sticky List Headers",
+        "Developer Name": "Emil Sjölander",
+        "Github Link": "https://github.com/emilsjolander/StickyListHeaders",
+        "Full Name": "emilsjolander/StickyListHeaders",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8010",
+        "Dependency Name": "Sticky Headers RecyclerView",
+        "Developer Name": "Timehop",
+        "Github Link": "https://github.com/timehop/sticky-headers-recyclerview",
+        "Full Name": "timehop/sticky-headers-recyclerview",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8011",
+        "Dependency Name": "Swipe To Action",
+        "Developer Name": "Victor Calvello",
+        "Github Link": "https://github.com/vcalvello/SwipeToAction",
+        "Full Name": "vcalvello/SwipeToAction",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8012",
+        "Dependency Name": "Decorator",
+        "Developer Name": "RÃºben Sousa",
+        "Github Link": "https://github.com/rubensousa/Decorator",
+        "Full Name": "rubensousa/Decorator",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8013",
+        "Dependency Name": "ListItem View",
+        "Developer Name": "Lucas Urbas",
+        "Github Link": "https://github.com/lurbas/ListItemView",
+        "Full Name": "lurbas/ListItemView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "8014",
+        "Dependency Name": "Recycler Banner",
+        "Developer Name": "Renny",
+        "Github Link": "https://github.com/ren93/RecyclerBanner",
+        "Full Name": "ren93/RecyclerBanner",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]

@@ -1,0 +1,61 @@
+{
+  "name": "DepHub Web",
+  "short_name": "DepHub Web",
+  "description": "DepHub has a collection of fast, frequently updated, categorized best Android Libraries/Dependencies on UI, API, Widgets, and many more. If you are an Android Developer, then this app is for you.",
+  "theme_color": "#ffffff",
+  "scope": "/",
+  "android_package_name": "com.dephub.android",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "id": "com.dephub.android",
+      "platform": "chromeos_play",
+      "url": "https://play.google.com/store/apps/details?id=com.dephub.android"
+    }
+  ],
+  "icons": [
+    {
+      "src": "images/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "purpose": "maskable",
+      "src": "images/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "purpose": "maskable",
+      "src": "images/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://play-lh.googleusercontent.com/FZBPIVuM-QgkJMehGkHEc8ndAgUl5BRLNESmrFNUfFxVXOLC_9jxUy7rdLNhxwFwaf0=w2560-h1440-rw",
+      "sizes": "810x1440",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://play-lh.googleusercontent.com/IxBJdKR2d8ngOtYQGs7Srx8NFBs1j_W9jOZ0pj4WpSveI1Ulnqa8HQPt76rMY9TnYms=w2560-h1440-rw",
+      "sizes": "810x1440",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://play-lh.googleusercontent.com/Yy_mSTAM0CztTAk0bYZyDPNPOQ5vXD0ieIus86Trl9Xi-ZPw-iR5DcwKcSM4ttyLpFXy=w2560-h1440-rw",
+      "sizes": "810x1440",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": "https://dephub.co/app",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}

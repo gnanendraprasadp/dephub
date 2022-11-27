@@ -1,0 +1,352 @@
+[
+    {
+        "Id": "4001",
+        "Dependency Name": "Bubble Layout",
+        "Developer Name": "Masayuki Suda",
+        "Github Link": "https://github.com/MasayukiSuda/BubbleLayout",
+        "Full Name": "MasayukiSuda/BubbleLayout",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4002",
+        "Dependency Name": "Cameleon Layout",
+        "Developer Name": "Jaewoong Eum",
+        "Github Link": "https://github.com/skydoves/CameleonLayout",
+        "Full Name": "skydoves/CameleonLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4003",
+        "Dependency Name": "Corner Cut Linear Layout",
+        "Developer Name": "Devlight",
+        "Github Link": "https://github.com/Devlight/CornerCutLinearLayout",
+        "Full Name": "Devlight/CornerCutLinearLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4004",
+        "Dependency Name": "Diagonal Layout",
+        "Developer Name": "Florent CHAMPIGNY",
+        "Github Link": "https://github.com/florent37/DiagonalLayout",
+        "Full Name": "florent37/DiagonalLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4005",
+        "Dependency Name": "Drag Linear Layout",
+        "Developer Name": "Justas MedeiÅ¡is",
+        "Github Link": "https://github.com/justasm/DragLinearLayout",
+        "Full Name": "justasm/DragLinearLayout",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4006",
+        "Dependency Name": "Expandable Layout-1",
+        "Developer Name": "Mert ÅžimÅŸek",
+        "Github Link": "https://github.com/iammert/ExpandableLayout",
+        "Full Name": "iammert/ExpandableLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4007",
+        "Dependency Name": "Expandable Layout-2",
+        "Developer Name": "Daniel Cachapa",
+        "Github Link": "https://github.com/cachapa/ExpandableLayout",
+        "Full Name": "cachapa/ExpandableLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4008",
+        "Dependency Name": "Expandable Layout-3",
+        "Developer Name": "Jaewoong Eum",
+        "Github Link": "https://github.com/skydoves/ExpandableLayout",
+        "Full Name": "skydoves/ExpandableLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4009",
+        "Dependency Name": "ExpansionPanel",
+        "Developer Name": "Florent CHAMPIGNY",
+        "Github Link": "https://github.com/florent37/ExpansionPanel",
+        "Full Name": "florent37/ExpansionPanel",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4010",
+        "Dependency Name": "Flow Layout",
+        "Developer Name": "Artem.Votincev",
+        "Github Link": "https://github.com/ApmeM/android-flowlayout",
+        "Full Name": "ApmeM/android-flowlayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4011",
+        "Dependency Name": "Round Korner Layout",
+        "Developer Name": "Jc MiÃ±arro",
+        "Github Link": "https://github.com/JcMinarro/RoundKornerLayouts",
+        "Full Name": "JcMinarro/RoundKornerLayouts",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4012",
+        "Dependency Name": "Round Linear Layout",
+        "Developer Name": "Thatchakon Jom-ud",
+        "Github Link": "https://github.com/dsjin/RoundLinearLayout",
+        "Full Name": "dsjin/RoundLinearLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4013",
+        "Dependency Name": "Shape Of View",
+        "Developer Name": "Florent CHAMPIGNY",
+        "Github Link": "https://github.com/florent37/ShapeOfView",
+        "Full Name": "florent37/ShapeOfView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4014",
+        "Dependency Name": "Wave View-1",
+        "Developer Name": "Kai Wang",
+        "Github Link": "https://github.com/john990/WaveView",
+        "Full Name": "john990/WaveView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4015",
+        "Dependency Name": "Phoenix",
+        "Developer Name": "Yalantis",
+        "Github Link": "https://github.com/Yalantis/Phoenix",
+        "Full Name": "Yalantis/Phoenix",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4016",
+        "Dependency Name": "Taurus",
+        "Developer Name": "Yalantis",
+        "Github Link": "https://github.com/Yalantis/Taurus",
+        "Full Name": "Yalantis/Taurus",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4017",
+        "Dependency Name": "Slidr",
+        "Developer Name": "Drew Heavner",
+        "Github Link": "https://github.com/r0adkll/Slidr",
+        "Full Name": "r0adkll/Slidr",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4018",
+        "Dependency Name": "Arc Layout",
+        "Developer Name": "Ogaclejapan",
+        "Github Link": "https://github.com/ogaclejapan/ArcLayout",
+        "Full Name": "ogaclejapan/ArcLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4019",
+        "Dependency Name": "Circle Refresh Layout",
+        "Developer Name": "ZhangLei",
+        "Github Link": "https://github.com/tuesda/CircleRefreshLayout",
+        "Full Name": "tuesda/CircleRefreshLayout",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4020",
+        "Dependency Name": "FAB Reveal Layout",
+        "Developer Name": "TomÃ¡s Ruiz-LÃ³pez",
+        "Github Link": "https://github.com/truizlop/FABRevealLayout",
+        "Full Name": "truizlop/FABRevealLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4021",
+        "Dependency Name": "Wave View-2",
+        "Developer Name": "NIGHT",
+        "Github Link": "https://github.com/gelitenight/WaveView",
+        "Full Name": "gelitenight/WaveView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4022",
+        "Dependency Name": "Triangle Label View",
+        "Developer Name": "Shota Saito",
+        "Github Link": "https://github.com/shts/TriangleLabelView",
+        "Full Name": "shts/TriangleLabelView",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4023",
+        "Dependency Name": "Vorolay",
+        "Developer Name": "Daniil Jurjev",
+        "Github Link": "https://github.com/Quatja/Vorolay",
+        "Full Name": "Quatja/Vorolay",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4024",
+        "Dependency Name": "Tag Sphere",
+        "Developer Name": "Alexander Rychkov",
+        "Github Link": "https://github.com/magic-goop/tag-sphere",
+        "Full Name": "magic-goop/tag-sphere",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4025",
+        "Dependency Name": "Spotlight",
+        "Developer Name": "TakuSemba",
+        "Github Link": "https://github.com/TakuSemba/Spotlight",
+        "Full Name": "TakuSemba/Spotlight",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4026",
+        "Dependency Name": "Android Swipe Layout",
+        "Developer Name": "Daimajia",
+        "Github Link": "https://github.com/daimajia/AndroidSwipeLayout",
+        "Full Name": "daimajia/AndroidSwipeLayout",
+        "YouTube Link": "No",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4027",
+        "Dependency Name": "Cardslider",
+        "Developer Name": "Ramotion",
+        "Github Link": "https://github.com/Ramotion/cardslider-android",
+        "Full Name": "Ramotion/cardslider-android",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4028",
+        "Dependency Name": "Curved BottomSheet",
+        "Developer Name": "Tayfun Cesur",
+        "Github Link": "https://github.com/TayfunCesur/CurvedBottomSheet",
+        "Full Name": "TayfunCesur/CurvedBottomSheet",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4029",
+        "Dependency Name": "Expandable BottomBar",
+        "Developer Name": "Alexander Dadukin",
+        "Github Link": "https://github.com/st235/ExpandableBottomBar",
+        "Full Name": "st235/ExpandableBottomBar",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4030",
+        "Dependency Name": "Flyco Tab Layout",
+        "Developer Name": "Flyco",
+        "Github Link": "https://github.com/H07000223/FlycoTabLayout",
+        "Full Name": "H07000223/FlycoTabLayout",
+        "YouTube Link": "no",
+        "License": "MIT License",
+        "License Link": "https://www.mit.edu/~amini/LICENSE.md"
+    },
+    {
+        "Id": "4031",
+        "Dependency Name": "Foldable Layout",
+        "Developer Name": "Alex Vasilkov",
+        "Github Link": "https://github.com/alexvasilkov/FoldableLayout",
+        "Full Name": "alexvasilkov/FoldableLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4032",
+        "Dependency Name": "Sliding Root Nav",
+        "Developer Name": "Yaroslav",
+        "Github Link": "https://github.com/yarolegovich/SlidingRootNav",
+        "Full Name": "yarolegovich/SlidingRootNav",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4033",
+        "Dependency Name": "Smart Tab Layout",
+        "Developer Name": "Ogaclejapan",
+        "Github Link": "https://github.com/ogaclejapan/SmartTabLayout",
+        "Full Name": "ogaclejapan/SmartTabLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4034",
+        "Dependency Name": "Space Tab Layout",
+        "Developer Name": "Razvan Lung",
+        "Github Link": "https://github.com/long1eu/SpaceTabLayout",
+        "Full Name": "long1eu/SpaceTabLayout",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+        "Id": "4035",
+        "Dependency Name": "Vega Layout Manager",
+        "Developer Name": "Stone",
+        "Github Link": "https://github.com/xmuSistone/VegaLayoutManager",
+        "Full Name": "xmuSistone/VegaLayoutManager",
+        "YouTube Link": "no",
+        "License": "Apache License 2.0",
+        "License Link": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+]
