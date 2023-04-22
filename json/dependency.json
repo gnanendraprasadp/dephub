@@ -955,18 +955,7 @@
     "youtube_link": "no",
     "license": "MIT License",
     "license_link": "https://www.mit.edu/~amini/LICENSE.md"
-  },
-  {
-    "id": "3022",
-    "type": "Widget",
-    "dependency_name": "Cropper",
-    "developer_name": "Edmodo",
-    "github_link": "https://github.com/edmodo/cropper",
-    "full_name": "edmodo/cropper",
-    "youtube_link": "no",
-    "license": "Apache License 2.0",
-    "license_link": "https://www.apache.org/licenses/LICENSE-2.0"
-  },
+  }
   {
     "id": "3023",
     "type": "Widget",
@@ -1956,17 +1945,6 @@
     "youtube_link": "no",
     "license": "Apache License 2.0",
     "license_link": "https://www.apache.org/licenses/LICENSE-2.0"
-  },
-  {
-    "id": "8007",
-    "type": "Legacy",
-    "dependency_name": "Divided Draggable View",
-    "developer_name": "Yuexin Feng",
-    "github_link": "https://github.com/andyken/DividedDraggableView",
-    "full_name": "andyken/DividedDraggableView",
-    "youtube_link": "no",
-    "license": "No License",
-    "license_link": "NO"
   },
   {
     "id": "8008",
